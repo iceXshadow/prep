@@ -6,3 +6,10 @@
 - create config file with `npx tsc --init`
 - we first compile ts code and then exe the js file for output
 - `tsc test.ts` and `node test.js`
+- setup new vite project with ts template
+
+## The TSCONFIG.json file
+
+- target (the target version of js that we will get after compiling ts code.)
+- module (commonjs, es6/esNext)
+- 
